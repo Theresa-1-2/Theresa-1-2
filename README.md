@@ -53,5 +53,5 @@ The dataset includes the following features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/theresa/book-sales-analysis.git
+   git clone https://github.com/Theresa-1-2/book-sales-analysis.git
    cd book-sales-analysis
